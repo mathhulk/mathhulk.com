@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /
+
+RewriteCond %{HTTP_HOST} www.mathhulk.com
+RewriteRule (.*) https://mathhulk.com/$1 [R=301,L]
