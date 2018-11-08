@@ -1,5 +1,5 @@
 ### mathhulk
-The domain mathhulk.com serves as a static landing page.
+Static landing page on the domain mathhulk.com.
 
 Developed using the following open-source repositories:
 * https://github.com/creativetimofficial/argon-design-system
