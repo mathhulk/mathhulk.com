@@ -1,7 +1,8 @@
-### mathhulk
+# mathhulk.com
 Static landing page on the domain mathhulk.com.
 
-Developed using the following open-source repositories:
+## Credit
+The mathhulk.com website was created using the following open-source repositories:
 * https://github.com/creativetimofficial/argon-design-system
 * https://github.com/FortAwesome/Font-Awesome
 * https://github.com/jquery/jquery
